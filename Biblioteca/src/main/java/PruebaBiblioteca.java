@@ -69,5 +69,6 @@ public class PruebaBiblioteca {
               System.out.println("Y el estado del libro 4 es: "+libro4);
               
               System.out.println("Esto es una prueba de git");
+              System.out.println("Esto es otra prueba");
         }
 }
